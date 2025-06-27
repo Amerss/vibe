@@ -1,4 +1,4 @@
-const Page = () => {
+const Page = async () => {
   return (
     <div>
       <h1>Hello World</h1>
